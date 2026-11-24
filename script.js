@@ -3,3 +3,5 @@
 // ideas consist of integrating interactive features, cool effects and a cybersecurity esk theme
 
 // form a kind of interactive site and have it interact with html
+
+// find a balance between functionality and techinical prowess showing through site interactions
