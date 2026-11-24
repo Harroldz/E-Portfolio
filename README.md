@@ -12,3 +12,5 @@ Additionally, will be a form of showcasing the ONE project which will be a full 
 Design philosophy will follow simplistic yet appealing design which clearly conveys structure and manages to show technical ability over being a simple design choice for everything done.
 
 Includes things such as contact info, short bio, current role, linkedin, resume and the github
+
+level of design integration over just functionallity is debatable 
